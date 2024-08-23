@@ -72,3 +72,4 @@ group :production do
   gem 'unicorn', '6.1.0'
 end
 gem 'carrierwave', '~> 2.0'
+gem 'rubyzip', '~> 2.3.0'
